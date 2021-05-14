@@ -1,0 +1,3 @@
+2021-02-02 07:41:21,104 INFO  [main] echo.EchoHttpServer (EchoHttpServer.java:118) - Echo HTTP/1.1 Server. Port: 8688, Boss Threads: 4, Worker Threads: 8, SSL Enabled: false, Number: 17241461
+2021-02-02 07:41:21,111 INFO  [main] echo.EchoHttpServer (EchoHttpServer.java:121) - Max Heap Size: 512MB
+2021-02-02 07:41:21,114 INFO  [main] echo.EchoHttpServer (EchoHttpServer.java:124) - Netty Version: 4.1.36.Final

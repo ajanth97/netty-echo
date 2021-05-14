@@ -1,0 +1,4 @@
+FROM openjdk:
+ADD netty-http-echo-service-0.4.6-SNAPSHOT-isPrime.jar netty-http-echo-service-0.4.6-SNAPSHOT-isPrime.jar
+EXPOSE 8688
+CMD java -jar netty-http-echo-service-0.4.6-SNAPSHOT-isPrime.jar
